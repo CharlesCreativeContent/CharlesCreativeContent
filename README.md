@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
   </a>
   <a href="http://travelara.org">
-    <img src="https://i.imgur.com/SYZTh9C.jpg" width="30px;" alt="Travelara.org"/>
+    <img src="https://i.imgur.com/WZ5r7Qm.png" width="30px;" alt="Travelara.org"/>
   </a>
 </p>
 
