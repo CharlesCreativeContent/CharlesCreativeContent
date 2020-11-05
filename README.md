@@ -1,5 +1,5 @@
 <a href="https://caitlinfloyd.com/">
-  <img src="https://imgur.com/VhAdSTl" width="100%">
+  <img src="https://imgur.com/a/aIHGTge" width="100%">
 </a>
 
 <p align="center">
