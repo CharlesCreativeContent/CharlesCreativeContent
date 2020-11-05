@@ -16,3 +16,11 @@
     <img src="https://i.imgur.com/SYZTh9C.jpg" width="30px;" alt="Travelara.org"/>
   </a>
 </p>
+
+
+
+I am a Boston-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in Math, Physics, and Business Management.
+
+See [my website](https://shawncharles.com) for more information!
+
+---
