@@ -79,8 +79,9 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Matching Cards</h3>
         <br />
         <p><a target="_blank" href="https://github.com/cafloyd/cityBucketList">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
-        <br /><a target="_blank" href="https://poke-matchcards.netlify.app/">
-        [Imgur](https://i.imgur.com/y9o4CAs.gifv)
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <iframe class="imgur-embed" width="100%" height="664" frameborder="0" src="https://i.imgur.com/y9o4CAs.gifv#embed"></iframe>
         </a>
         
         
