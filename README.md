@@ -79,10 +79,10 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Matching Cards</h3>
         <br />
         <p><a target="_blank" href="https://github.com/cafloyd/cityBucketList">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="https://i.imgur.com/y9o4CAs.gifv" width="100%" alt="Matching Cards"/>
+        <br /><a target="_blank" href="https://poke-matchcards.netlify.app/">
+        [Imgur](https://i.imgur.com/y9o4CAs.gifv)
         </a>
+        
         
         <p>A mobile app allowing users to maintain city-specific bucket lists. Built using Flutter, Dart, and Google Places APIs</p>
     </td>
