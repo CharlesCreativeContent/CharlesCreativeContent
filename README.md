@@ -38,7 +38,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
         <br />
         <a target="_blank" href="http://www.travelara.org">
-            <img src="https://i.imgur.com/cMA0z6x.gifv" width="100%" alt="Travelara.org"/>
+            <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Travelara.org"/>
         </a>
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
     </td>
@@ -68,7 +68,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-          <img src="https://i.imgur.com/3BG563x.gifv" width="100%" alt="Rigley 2: "Flappy Bug"/>
+          <img src="https://i.imgur.com/Mf91ZMI.png" width="100%" alt="Rigley 2: "Flappy Bug"/>
         </a>
         <p>An e-commerce, single-page application for custom care packages. Built using JavaScript, React.js, Express.js, Sequelize, Redux, CSS</p>
     </td>
@@ -81,7 +81,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/cityBucketList">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-        <iframe class="imgur-embed" width="100%" height="664" frameborder="0" src="https://i.imgur.com/y9o4CAs.gifv#embed"></iframe>
+        <img src="https://i.imgur.com/7ZeXpLo.png">
         </a>
         
         
