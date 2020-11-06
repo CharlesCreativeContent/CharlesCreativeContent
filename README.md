@@ -69,7 +69,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-            <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" alt="Matching Cards"/>
+            <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" height="100px" alt="Matching Cards"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
     </td>
