@@ -45,7 +45,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
         <br />
         <a target="_blank" href="https://www.shawncharles.com">
-            <img src="https://i.imgur.com/GhuwEs2.gifv" width="100%" alt="Couch Potato"/>
+            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Couch Potato"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
     </td>
