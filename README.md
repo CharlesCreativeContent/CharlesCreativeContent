@@ -54,22 +54,22 @@ See [my website](https://shawncharles.com) for more information!
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Travelara.org</h3>
+      <h3>Rigley 2: "Flappy Bug"</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
+        <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
-        <a target="_blank" href="http://www.travelara.org">
-            <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Travelara.org"/>
+        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Rigley 2"/>
         </a>
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Portfolio</h3>
+      <h3>Matching Cards</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
+        <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
-        <a target="_blank" href="https://www.shawncharles.com">
-            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Couch Potato"/>
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Matching Cards"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
     </td>
