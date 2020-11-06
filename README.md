@@ -30,9 +30,6 @@ See [my website](https://shawncharles.com) for more information!
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
-      <a target="_blank" href="http://www.travelara.org" />
-      <a href="https://imgur.com/CnCfOTw"><img src="https://i.imgur.com/CnCfOTws.png" title="source: imgur.com" /></a>
-      </a>
       <h3>Travelara.org</h3>
         <br />
         <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
@@ -43,9 +40,6 @@ See [my website](https://shawncharles.com) for more information!
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
     </td>
     <td width="33%" valign="top">
-      <a target="_blank" href="https://www.shawncharles.com" />
-          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="30%" alt="Portfolio" align="right"/>
-      </a>
       <h3>Portfolio</h3>
         <br />
         <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
@@ -60,10 +54,7 @@ See [my website](https://shawncharles.com) for more information!
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-        <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="30%" alt="Care Kit" align="right"/>
       <h3>Rigley 2: "Flappy Bug"</h3>
-        </a>
         <br />
         <p><a target="_blank" href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
@@ -81,7 +72,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/cityBucketList">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-        <img src="https://i.imgur.com/7ZeXpLo.png">
+        <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" >
         </a>
         
         
