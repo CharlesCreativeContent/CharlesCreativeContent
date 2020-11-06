@@ -37,7 +37,7 @@ See [my website](https://shawncharles.com) for more information!
         <a target="_blank" href="http://www.travelara.org">
             <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Travelara.org"/>
         </a>
-        <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
@@ -47,7 +47,7 @@ See [my website](https://shawncharles.com) for more information!
         <a target="_blank" href="https://www.shawncharles.com">
             <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Couch Potato"/>
         </a>
-        <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site.</p>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ See [my website](https://shawncharles.com) for more information!
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="https://i.imgur.com/Mf91ZMI.png" width="100%"  height="265px" alt="Rigley 2"/>
         </a>
-        <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Matching Cards</h3>
@@ -71,7 +71,7 @@ See [my website](https://shawncharles.com) for more information!
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
             <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" alt="Matching Cards"/>
         </a>
-        <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
 </table>
