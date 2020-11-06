@@ -59,7 +59,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="https://i.imgur.com/Mf91ZMI.png" width="100%" alt="Rigley 2"/>
+            <img src="https://i.imgur.com/Mf91ZMI.png" width="100%"  height="150px"alt="Rigley 2"/>
         </a>
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
     </td>
@@ -69,7 +69,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-            <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" height="100px" alt="Matching Cards"/>
+            <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" alt="Matching Cards"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
     </td>
