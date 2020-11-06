@@ -31,7 +31,7 @@ See [my website](https://shawncharles.com) for more information!
   <tr>
     <td width="33%" valign="top">
       <a target="_blank" href="http://www.travelara.org" />
-          [Imgur](https://i.imgur.com/CnCfOTws.png)
+      <a href="https://imgur.com/CnCfOTw"><img src="https://i.imgur.com/CnCfOTws.png" title="source: imgur.com" /></a>
       </a>
       <h3>Travelara.org</h3>
         <br />
