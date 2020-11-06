@@ -38,7 +38,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
         <br />
         <a target="_blank" href="http://www.travelara.org">
-            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-couch-potato.gif" width="100%" alt="Couch Potato"/>
+            <img src="https://i.imgur.com/cMA0z6x.gifv" width="100%" alt="Travelara.org"/>
         </a>
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
     </td>
@@ -51,7 +51,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
         <br />
         <a target="_blank" href="https://www.shawncharles.com">
-            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-portfolio.gif" width="100%" alt="Couch Potato"/>
+            <img src="https://i.imgur.com/GhuwEs2.gifv" width="100%" alt="Couch Potato"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
     </td>
@@ -68,7 +68,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-care-kit.gif" width="100%" alt="Care Kit"/>
+          <img src="https://i.imgur.com/3BG563x.gifv" width="100%" alt="Rigley 2: "Flappy Bug"/>
         </a>
         <p>An e-commerce, single-page application for custom care packages. Built using JavaScript, React.js, Express.js, Sequelize, Redux, CSS</p>
     </td>
@@ -79,6 +79,11 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Matching Cards</h3>
         <br />
         <p><a target="_blank" href="https://github.com/cafloyd/cityBucketList">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="https://i.imgur.com/y9o4CAs.gifv" width="100%" alt="Matching Cards"/>
+        </a>
+        
         <p>A mobile app allowing users to maintain city-specific bucket lists. Built using Flutter, Dart, and Google Places APIs</p>
     </td>
   </tr>
