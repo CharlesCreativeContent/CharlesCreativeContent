@@ -32,7 +32,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Travelara.org</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
         <br />
         <a target="_blank" href="http://www.travelara.org">
             <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Travelara.org"/>
@@ -42,12 +42,12 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
         <br />
         <a target="_blank" href="https://www.shawncharles.com">
-            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Couch Potato"/>
+            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Portfolio"/>
         </a>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site.</p>
+        <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Rigley 2: "Flappy Bug"</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="https://i.imgur.com/Mf91ZMI.png" width="100%"  height="265px" alt="Rigley 2"/>
@@ -66,7 +66,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Matching Cards</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
             <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" alt="Matching Cards"/>
