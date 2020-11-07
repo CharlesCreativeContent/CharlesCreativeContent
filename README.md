@@ -56,7 +56,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Rigley 2: "Flappy Bug"</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="https://i.imgur.com/Mf91ZMI.png" width="100%"  height="265px" alt="Rigley 2"/>
