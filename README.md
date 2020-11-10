@@ -69,7 +69,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-            <img src="https://i.imgur.com/7ZeXpLo.png" width="100%" alt="Matching Cards"/>
+            <img src="https://media.giphy.com/media/SH5m4p5BkvkUUomS2x/giphy.gif" width="100%" alt="Matching Cards"/>
         </a>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
