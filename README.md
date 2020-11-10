@@ -19,7 +19,7 @@
 
 
 
-I am a Boston-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in Math, Physics, and Business Management.
+Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
 
 See [my website](https://shawncharles.com) for more information!
 
