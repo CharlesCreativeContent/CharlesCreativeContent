@@ -70,7 +70,7 @@ See [my website](https://shawncharles.com) for more information!
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
 <!--             <img src="https://media.giphy.com/media/SH5m4p5BkvkUUomS2x/source.gif" width="100%" alt="Matching Cards"/> -->
-          <iframe src="https://giphy.com/embed/SH5m4p5BkvkUUomS2x" width="100%" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+          <div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/SH5m4p5BkvkUUomS2x" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SH5m4p5BkvkUUomS2x">via GIPHY</a></p>
           
         </a>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
