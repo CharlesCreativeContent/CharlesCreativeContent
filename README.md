@@ -35,7 +35,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
         <br />
         <a target="_blank" href="http://www.travelara.org">
-            <img src="https://i.imgur.com/Swh7Q32.png" width="100%" alt="Travelara.org"/>
+            <img src="https://raw.githubusercontent.com/CharlesCreativeContent/CharlesCreativeContent/master/images/gif1.gif" width="100%" alt="Travelara.org"/>
         </a>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
