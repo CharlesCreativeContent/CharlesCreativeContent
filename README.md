@@ -45,7 +45,7 @@ See [my website](https://shawncharles.com) for more information!
         <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
         <br />
         <a target="_blank" href="https://www.shawncharles.com">
-            <img src="https://i.imgur.com/VoIyjOU.png" width="100%" alt="Portfolio"/>
+            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
         <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
