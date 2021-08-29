@@ -23,6 +23,10 @@ Motivated by the power of technology as a tool for positive change, I am a Bosto
 
 See [my website](https://shawncharles.com) for more information!
 
+#### Technologies
+
+[![HTML Badge](https://img.shields.io/static/v1?label=|&message=HTML5&color=green&style=for-the-badge&logo=html5)](#) [![CSS Badge](https://img.shields.io/static/v1?label=|&message=CSS3&color=brightgreen&style=for-the-badge&logo=css3)](#) [![Javascript Badge](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=brightgreen&style=for-the-badge&logo=javascript)](#) [![React Badge](https://img.shields.io/static/v1?label=|&message=REACT.JS&color=brightgreen&style=for-the-badge&logo=javascript)](#) [![Typescript Badge](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=brightgreen&style=for-the-badge&logo=typescript)](#) [![Python Badge](https://img.shields.io/static/v1?label=|&message=PYTHON&color=brightgreen&style=for-the-badge&logo=python)](#) [![Java Badge](https://img.shields.io/static/v1?label=|&message=JAVA&color=brightgreen&style=for-the-badge&logo=java)](#) [![Solidity Badge](https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=brightgreen&style=for-the-badge&logo=solidity)](#)
+
 ---
 
 
