@@ -12,7 +12,7 @@
   <a target="_blank" href="https://twitter.com/shawnbasquiat">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
   </a>
-  <a target="_blank" href="http://travelara.org">
+  <a target="_blank" href="http://travelara.herokuapp.com">
     <img src="images/plane.png" width="30px;" alt="Travelara.org"/>
   </a>
 </p>
@@ -35,9 +35,9 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Travelara.org</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="http://www.travelara.org">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2020">Repo</a> // <a target="_blank" href="http://www.travelara.herokuapp.com">Site</a></p>
         <br />
-        <a target="_blank" href="http://www.travelara.org">
+        <a target="_blank" href="http://www.travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
         </a>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
