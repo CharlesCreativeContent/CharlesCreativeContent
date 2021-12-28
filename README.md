@@ -35,7 +35,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Travelara.org</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2021">Repo</a> // <a target="_blank" href="http://travelara.herokuapp.com">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Repo</a> // <a target="_blank" href="http://travelara.herokuapp.com">Site</a></p>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
@@ -45,7 +45,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio-2021">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
+        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
         <br />
         <a target="_blank" href="https://www.shawncharles.com">
             <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
