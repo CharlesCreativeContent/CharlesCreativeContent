@@ -79,12 +79,19 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Repo</a> // <a target="_blank" href="https://shawncharles.com">Site</a></p>
+        <p>
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=8fbc56&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
         <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
   
@@ -92,7 +99,15 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Rigley 2: "Flappy Bug"</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Repo</a> // <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">Site</a></p>
+        <p>
+          
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=8fbc56&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
         <br />
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
@@ -102,7 +117,15 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Matching Cards</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Repo</a> // <a target="_blank" href="https://poke-matchcards.netlify.app/">Site</a></p>
+        <p>
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=8fbc56&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
