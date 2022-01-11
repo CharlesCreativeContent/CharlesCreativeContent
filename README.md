@@ -78,3 +78,12 @@ See [my website](https://shawncharles.com) for more information!
     </td>
   </tr>
 </table>
+
+
+
+## Connect with me  
+
+<div align="center">
+ [![Linked-In](https://img.shields.io/static/v1?label=|&message=Linked-In&color=98bf53&style=plastic&logo=linked-in)](https://shawncharles.com/linkedin) [![Website](https://img.shields.io/static/v1?label=|&message=Website&color=98bf53&style=plastic&logo=world)](https://shawncharles.com) [![Twitter](https://img.shields.io/static/v1?label=|&message=Twitter&color=cdd148&style=plastic&logo=twitter)](https://shawncharles.com/twitter)
+</div>  
+<br/>
