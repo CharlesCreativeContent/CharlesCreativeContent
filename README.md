@@ -60,7 +60,7 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="33%" valign="top">
-      <h3>Travelara.org"</h3>
+      <h3>Travelara.org</h3>
         <br />
       <p>
   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
