@@ -63,8 +63,9 @@ See [my website](https://shawncharles.com) for more information!
         <br />
       
         <p>
-          <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
+          
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
