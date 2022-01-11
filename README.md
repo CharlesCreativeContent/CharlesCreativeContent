@@ -122,7 +122,7 @@ See [my website](https://shawncharles.com) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
