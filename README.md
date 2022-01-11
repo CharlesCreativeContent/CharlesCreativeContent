@@ -2,13 +2,6 @@
   <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
 </a>
 
-
-
-
-
-<h1 align="center">Connect</h1>
-
-
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
@@ -26,9 +19,6 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
-
-<br/>
 
 Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
 
@@ -114,3 +104,30 @@ See [my website](https://shawncharles.com) for more information!
     </td>
   </tr>
 </table>
+
+
+
+
+<h1 align="center">Connect</h1>
+
+
+<p align="center">
+  <a href="https://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=8fbc56&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
+
+
+<br/>
