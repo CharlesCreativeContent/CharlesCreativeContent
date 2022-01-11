@@ -39,6 +39,9 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=98bf53&style=plastic&logo=solidity"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=98bf53&style=plastic&logo=selenium"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=cdd148&style=plastic&logo=amazon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=98bf53&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=98bf53&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=cdd148&style=plastic&logo=adobe"/>
 </p>
 
 
