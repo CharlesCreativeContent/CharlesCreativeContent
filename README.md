@@ -62,15 +62,16 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Travelara.org</h3>
         <br />
       
-        <p>
-          
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      
+          <p>
+          <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
+      
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
@@ -84,7 +85,6 @@ See [my website](https://shawncharles.com) for more information!
           <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
   </a>
-            <span>//</span>
   <a href="https://www.shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
