@@ -103,9 +103,8 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
 </table>
 
-<p align="center">
-<h1>Connect With Me </h1>
-</p>
+
+<h1 align="center">Connect With Me </h1>
 
 
 <p align="center">
