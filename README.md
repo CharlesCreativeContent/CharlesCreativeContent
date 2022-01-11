@@ -82,7 +82,8 @@ See [my website](https://shawncharles.com) for more information!
           <p>
           <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
-  </a> //
+  </a>
+            //
   <a href="https://www.shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
