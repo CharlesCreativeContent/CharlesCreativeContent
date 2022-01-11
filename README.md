@@ -111,12 +111,9 @@ See [my website](https://shawncharles.com) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-  
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=8fbc56&style=plastic&logo=java"/>
-  
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=98bf53&style=plastic&logo=selenium"/>
-  
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=twitter"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=8fbc56&style=plastic&logo=globe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=98bf53&style=plastic&logo=linkedin"/>
 </p>
 
 
