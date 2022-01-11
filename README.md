@@ -48,10 +48,6 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cdd111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cbb148&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cdd111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
 </p>
 
 
