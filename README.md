@@ -62,7 +62,13 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Travelara.org"</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Repo</a> // <a target="_blank" href="http://travelara.herokuapp.com">Site</a></p>
+      
+  <a href="https://shawncharles.com/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=8fbc56&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
