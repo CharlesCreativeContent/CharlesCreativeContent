@@ -44,7 +44,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=cdd148&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PHOTOSHOP&color=cdd148&style=plastic&logo=photoshop"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGODB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cdd148&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cdd148&style=plastic&logo=nodejs"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=cdd148&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=cdd148&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cdd148&style=plastic&logo=linux"/>
