@@ -105,7 +105,7 @@ See [my website](https://shawncharles.com) for more information!
 </table>
 
 
-<h1 align="center">Connect With Me </h1>
+<h1 align="center">Connect</h1>
 
 
 <p align="center">
