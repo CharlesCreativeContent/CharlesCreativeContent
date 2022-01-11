@@ -61,7 +61,15 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Travelara.org</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Repo</a> // <a target="_blank" href="http://travelara.herokuapp.com">Site</a></p>
+      
+        <p>
+          <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
@@ -71,11 +79,14 @@ See [my website](https://shawncharles.com) for more information!
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Repo</a> // <a target="_blank" href="https://www.shawncharles.com">Site</a></p>
-        <br />
-        <a target="_blank" href="https://www.shawncharles.com">
-            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
+          <p>
+          <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
+  </a> //
+  <a href="https://www.shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
         <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
