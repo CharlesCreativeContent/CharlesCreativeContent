@@ -62,21 +62,26 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Travelara.org</h3>
         <br />
       <p>
-          <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
-  </a>
+        <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8fbc56&style=plastic&logo=github&logo-color=white"/>
+        </a>
         
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+        <a href="http://travelara.herokuapp.com" target="_blank">
+          
+          <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
         
+        </a>
+      
       </p>
       
         <br />
+      
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%" alt="Travelara.org"/>
         </a>
+      
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+      
     </td>
     <td width="33%" valign="top">
       <h3>Portfolio</h3>
@@ -89,6 +94,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
+      
         <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
