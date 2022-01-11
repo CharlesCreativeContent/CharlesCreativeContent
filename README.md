@@ -42,14 +42,11 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=98bf53&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=98bf53&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=cdd148&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PHOTOSHOP&color=cdd148&style=plastic&logo=photoshop"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGODB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cdd148&style=plastic&logo=nodejs"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=cdd148&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=cdd148&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cdd148&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cdf998&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BASH&color=cff148&style=plastic&logo=bash"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cdd999&style=plastic&logo=firebase"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cdd111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=cbb148&style=plastic&logo=linux"/>
