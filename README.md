@@ -63,11 +63,11 @@ See [my website](https://shawncharles.com) for more information!
       <h3>Travelara.org"</h3>
         <br />
       <p>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=8fbc56&style=plastic&logo=twitter&logo-color=white"/>
+  <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SITE&color=8fbc56&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
         </p>
         <br />
@@ -81,10 +81,10 @@ See [my website](https://shawncharles.com) for more information!
         <br />
         <p><a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Repo</a> // <a target="_blank" href="https://shawncharles.com">Site</a></p>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
   
