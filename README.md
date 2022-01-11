@@ -109,10 +109,21 @@ See [my website](https://shawncharles.com) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=8fbc56&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=8fbc56&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=8fbc56&style=plastic&logo=react&logo-color=white"/>
+  </a>
 </p>
 
 
