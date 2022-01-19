@@ -75,26 +75,6 @@ See [my website](https://shawncharles.com) for more information!
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Portfolio</h3>
-        <br />
-        <p>
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="33%" valign="top">
       <h3>Rigley 2: "Flappy Bug"</h3>
         <br />
         <p>
@@ -111,6 +91,26 @@ See [my website](https://shawncharles.com) for more information!
             <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
         </a>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <br />
+        <p>
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Matching Cards</h3>
