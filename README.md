@@ -1,3 +1,24 @@
+<style>
+      @media screen and (max-width: 767px) {
+        .content {
+          background-color: lightblue;
+          padding: 30px;
+        }
+      }
+      @media screen and (min-width: 768px) {
+        .content {
+          background-color: pink;
+          padding: 10px;
+        }
+      }
+      @media screen and (min-width: 800px) {
+        .content {
+          background-color: lightgreen;
+          color: white;
+          padding: 50px;
+        }
+      }
+</style>
 <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
 
 <p align="center">
