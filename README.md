@@ -24,8 +24,6 @@ Motivated by the power of technology as a tool for positive change, I am a Bosto
 See [my website](https://shawncharles.com) for more information!
 
 
-<h1 align="center">Technologies</h1>
-
 ---
 
 
@@ -108,6 +106,9 @@ See [my website](https://shawncharles.com) for more information!
     </td>
   </tr>
 </table>
+
+
+<h1 align="center">Technologies</h1>
 
 
 <p align="center">
