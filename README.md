@@ -24,9 +24,6 @@ Motivated by the power of technology as a tool for positive change, I am a Bosto
 See [my website](https://shawncharles.com) for more information!
 
 
----
-
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -134,6 +131,9 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
+
+
+---
 
 
 <h1 align="center">Connect</h1>
