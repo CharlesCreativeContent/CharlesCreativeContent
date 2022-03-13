@@ -34,14 +34,19 @@ See [my website](https://shawncharles.com) for more information!
             <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
         </a>
      
+        <br />
   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>        
+  </a>  
+      
+        <br />
   <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       
+        <br />
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+      
     </td>
     <td width="33%" valign="top">
       <h3>Rigley 2: "Flappy Bug"</h3>
