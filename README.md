@@ -1,5 +1,4 @@
 
-<img src="https://placekitten.com/200/200" media="screen and (max-width:1000px)" width="100%">
 <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
 
 <p align="center">
