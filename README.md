@@ -77,7 +77,7 @@ See [my website](https://shawncharles.com) for more information!
   </a>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/gif4.gif" width="100%" height="265px" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -94,7 +94,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/gif3.gif" width="100%" height="265px" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
