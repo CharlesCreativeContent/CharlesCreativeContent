@@ -49,15 +49,13 @@ See [my website](https://shawncharles.com) for more information!
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="33%" valign="top">
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
       </a>
         <br />
-      
-        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="images/gif2.gif" width="100%"  height="265px" alt="Rigley 2"/>
         </a>
-      
         <br />
         <p align="center">
           
