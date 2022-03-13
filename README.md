@@ -28,7 +28,7 @@ See [my website](https://shawncharles.com) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
         <a target="_blank" href="http://travelara.herokuapp.com">
       <h3 align="center">Travelara.org</h3>
         </a>
@@ -48,7 +48,7 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
         <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
       </a>
@@ -71,7 +71,7 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
   
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
       <h3 align="center">Portfolio</h3>
   </a>
@@ -90,7 +90,7 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
