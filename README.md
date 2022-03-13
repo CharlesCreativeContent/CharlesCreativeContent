@@ -159,7 +159,3 @@ See [my website](https://shawncharles.com) for more information!
   </a>
 </p>
 
-
-<br/>
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=CharlesCreativeContent&show_icons=true)
