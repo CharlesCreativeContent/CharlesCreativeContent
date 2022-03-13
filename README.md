@@ -30,11 +30,11 @@ See [my website](https://shawncharles.com) for more information!
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Travelara.org</h3>
-        
+        <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
         </a>
-        
+        <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
@@ -48,7 +48,7 @@ See [my website](https://shawncharles.com) for more information!
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
-        
+        <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
