@@ -29,13 +29,13 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="33%" valign="top">
-      <h3>Travelara.org</h3>
+      <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
             <img src="images/gif1.gif" width="100%"  height="265px" alt="Travel App"/>
         </a>
         <br />
-        <p>
+        <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -47,9 +47,9 @@ See [my website](https://shawncharles.com) for more information!
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
-        <p>
+        <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -68,9 +68,9 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="33%" valign="top">
-      <h3>Portfolio</h3>
+      <h3 align="center">Portfolio</h3>
         <br />
-        <p>
+        <p align="center">
   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -85,9 +85,9 @@ See [my website](https://shawncharles.com) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Matching Cards</h3>
+      <h3 align="center">Matching Cards</h3>
         <br />
-        <p>
+        <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
