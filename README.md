@@ -68,7 +68,7 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">ShawnCharles.com</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
