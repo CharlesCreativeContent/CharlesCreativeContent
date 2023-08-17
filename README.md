@@ -31,7 +31,7 @@ See [my website](https://shawncharles.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Travelara.org</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://shawncharles.com/travelara">
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
@@ -40,8 +40,8 @@ See [my website](https://shawncharles.com) for more information!
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="\https://shawncharles.com/travelara" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
