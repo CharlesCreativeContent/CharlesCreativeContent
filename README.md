@@ -24,7 +24,175 @@ Previously an Amazon Full-Stack Software Engineer, I am motivated by the power o
 See [my website](https://shawncharles.com) for more information!
 
 
-<h1 align="center">Projects</h1>
+<details  style="float:left;">
+  <summary  align="center"><h1>AI Projects</h1></summary>
+
+  <table bordercolor="#66b2b2">
+
+    
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Runware Pokémon Generator</h3>
+      <br />
+      <a target="_blank" href="https://runware-pokemon-generator.vercel.app/">
+        <img src="https://github.com/CharlesCreativeContent/runware-pokemon-generator/raw/main/public/runware.gif?raw=true" width="100%" alt="Runware Pokémon Generator"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/runware-pokemon-generator" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://runware-pokemon-generator.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=vercel&logo-color=white"/>
+        </a>
+        <a href="https://youtu.be/oQU5E0bBPYQ" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, Express.js, Runware SDK</strong> — Generates Pokémon-inspired images and an idle-animation video for a Pokédex entry using Runware (image gen) and Google Veo3 (video).</p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h3 align="center">CoinGecko-Thesys-MCP</h3>
+      <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/CoinGecko-Thesys-MCP">
+        <img src="https://camo.githubusercontent.com/0dd2f60eb61954fb96f89c3c31fe17bdd70d5eede3adf617adca4db22e937638/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f436f696e4765636b6f2e676966" width="100%" alt="CoinGecko Thesys MCP"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/CoinGecko-Thesys-MCP" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — C1 app that connects to a CoinGecko MCP server to stream chat and visualize crypto data with tool integrations.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Building an AI Clinic Agent with Toolhouse</h3>
+      <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/toolhouse-examples">
+        <img src="https://github.com/CharlesCreativeContent/myImages/raw/main/images/PetGuru.png?raw=true" width="100%" alt="AI Clinic Agent with Toolhouse"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/toolhouse-examples" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://youtu.be/LwKPnH0198E" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Python, Toolhouse SDK, OpenAI API</strong> — Example agent that integrates Toolhouse tools with GPT to power use-cases like customer support and content workflows.</p>
+    </td>
+
+  <td width="50%" valign="top">
+      <h3 align="center">Text-2-Video with BentoML</h3>
+      <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/BentoText2Video">
+        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/Happy_New_Year_Card.png?raw=true" width="100%" alt="Text-2-Video with BentoML"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/BentoText2Video" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://github.com/CharlesCreativeContent/BentoText2Video/blob/main/output.mp4" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Python, BentoML, VLLM, XTTS, SDXL-Turbo, MoviePy</strong> — End-to-end text-to-video pipeline combining text, TTS audio, and image synthesis into rendered clips.</p>
+    </td>
+  </tr>
+  </table>
+</details>
+<details style="float:left;">
+  <summary align="center"><h1 align="center">More AI Projects</h1></summary>
+
+  
+<table bordercolor="#66b2b2">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Xano-Thesys-MCP</h3>
+      <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/Xano-Thesys-MCP">
+        <img src="https://camo.githubusercontent.com/3f2654c88b242767c7f7ef2d0a6aadb21dd0478fb270dfaa17dffdd40414da69/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f78616e6f636861742e706e67" width="100%" alt="Xano Thesys MCP"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/Xano-Thesys-MCP" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — Starter template wired for C1 with environment hooks for Xano auth & MCP endpoints.</p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h3 align="center">AI Gallery</h3>
+      <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/aigallery">
+        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/aiGallery.png?raw=true" width="100%" alt="AI Gallery"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/aigallery" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>SCSS, CSS, JavaScript, HTML</strong> — Static gallery showcasing AI images and videos from your creative experiments.</p>
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Elastic Path API</h3>
+      <br />
+      <a target="_blank" href="https://elastic-path-demo.netlify.app">
+        <img src="https://github.com/CharlesCreativeContent/myimages/raw/main/images/elastic-path-demo.gif?raw=true" width="100%" alt="Elastic Path API Demo"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/elastic-path-demo" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://elastic-path-demo.netlify.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=1dHhMwfqb9w" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, HTML, CSS, Express</strong> — Ecommerce demo wired to the Elastic Path Composable Commerce API, with a live Netlify deploy and walkthrough video.</p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h3 align="center">Phaser Pokemon</h3>
+      <br />
+      <a target="_blank" href="https://shawncharles.com/pokemon">
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQFPt89_5Wwoaw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698519299950?e=1759723200&v=beta&t=3GejZ9NgMmmOZa2CyPEs8mHQhItJaIH5SUrAIBJJai0" width="100%" alt="Phaser Pokemon"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://shawncharles.com/pokemon" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript & Phaser.js</strong> — Pokémon-style top-down mini game built with Phaser.</p>
+    </td>
+  </tr>
+
+</table>
+
+
+</details>
+
+
+
+<details  style="float:left;">
+  <summary  align="center"><h1 align="center">Fun Projects</h1></summary>
+
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -105,6 +273,7 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
 </table>
 
+</details>
 
 <h1 align="center">Technologies</h1>
 
