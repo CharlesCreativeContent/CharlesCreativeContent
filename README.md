@@ -24,7 +24,7 @@ Previously an Amazon Full-Stack Software Engineer, I am motivated by the power o
 See [my website](https://shawncharles.com) for more information!
 
 
-<details name="projects" open  style="float:left;">
+<details name="AI Projects" open  style="float:left;">
   <summary  align="center"><h1>AI Projects</h1></summary>
 
   <table bordercolor="#66b2b2">
@@ -107,7 +107,7 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
   </table>
 </details>
-<details name="projects" open style="float:left;">
+<details name="More AI Projects" style="float:left;">
   <summary align="center"><h1 align="center">More AI Projects</h1></summary>
 
   
@@ -190,7 +190,7 @@ See [my website](https://shawncharles.com) for more information!
 
 
 
-<details open name="projects" style="float:left;">
+<details name="Fun Projects" style="float:left;">
   <summary  align="center"><h1 align="center">Fun Projects</h1></summary>
 
 <table bordercolor="#66b2b2">
