@@ -105,14 +105,8 @@ See [my website](https://shawncharles.com) for more information!
       <p><strong>Python, BentoML, VLLM, XTTS, SDXL-Turbo, MoviePy</strong> — End-to-end text-to-video pipeline combining text, TTS audio, and image synthesis into rendered clips.</p>
     </td>
   </tr>
-  </table>
-</details>
-<details name="More AI Projects" style="float:left;">
-  <summary align="center"><h1 align="center">More AI Projects</h1></summary>
 
   
-<table bordercolor="#66b2b2">
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Xano-Thesys-MCP</h3>
@@ -144,6 +138,18 @@ See [my website](https://shawncharles.com) for more information!
       <p><strong>SCSS, CSS, JavaScript, HTML</strong> — Static gallery showcasing AI images and videos from your creative experiments.</p>
     </td>
   </tr>
+  </table>
+</details>
+
+
+
+
+
+<details open name="Fun Projects" style="float:left;">
+  <summary  align="center"><h1 align="center">Fun Projects</h1></summary>
+
+<table bordercolor="#66b2b2">
+
 
    <tr>
     <td width="50%" valign="top">
@@ -166,36 +172,6 @@ See [my website](https://shawncharles.com) for more information!
       </p>
       <p><strong>JavaScript, HTML, CSS, Express</strong> — Ecommerce demo wired to the Elastic Path Composable Commerce API, with a live Netlify deploy and walkthrough video.</p>
     </td>
-
-   <td width="50%" valign="top">
-      <h3 align="center">Phaser Pokemon</h3>
-      <br />
-      <a target="_blank" href="https://shawncharles.com/pokemon">
-        <img src="https://media.licdn.com/dms/image/v2/D562DAQFPt89_5Wwoaw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698519299950?e=1759723200&v=beta&t=3GejZ9NgMmmOZa2CyPEs8mHQhItJaIH5SUrAIBJJai0" width="100%" alt="Phaser Pokemon"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://shawncharles.com/pokemon" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>JavaScript & Phaser.js</strong> — Pokémon-style top-down mini game built with Phaser.</p>
-    </td>
-  </tr>
-
-</table>
-
-
-</details>
-
-
-
-<details name="Fun Projects" style="float:left;">
-  <summary  align="center"><h1 align="center">Fun Projects</h1></summary>
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travelara.org</h3>
         <br />
@@ -214,6 +190,9 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
@@ -232,7 +211,24 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
+
+    
+   <td width="50%" valign="top">
+      <h3 align="center">Phaser Pokemon</h3>
+      <br />
+      <a target="_blank" href="https://shawncharles.com/pokemon">
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQFPt89_5Wwoaw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1698519299950?e=1759723200&v=beta&t=3GejZ9NgMmmOZa2CyPEs8mHQhItJaIH5SUrAIBJJai0" width="100%" alt="Phaser Pokemon"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://shawncharles.com/pokemon" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript & Phaser.js</strong> — Pokémon-style top-down mini game built with Phaser.</p>
+    </td>
   </tr>
+
   
   <tr>
     <td width="50%" valign="top">
