@@ -34,16 +34,13 @@ See [my website](https://shawncharles.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Runware Pokémon Generator</h3>
       <br />
-      <a target="_blank" href="https://runware-pokemon-generator.vercel.app/">
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/runware-pokemon-generator">
         <img src="https://github.com/CharlesCreativeContent/runware-pokemon-generator/raw/main/public/runware.gif?raw=true" width="100%" alt="Runware Pokémon Generator"/>
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/runware-pokemon-generator" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://runware-pokemon-generator.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=vercel&logo-color=white"/>
         </a>
         <a href="https://youtu.be/oQU5E0bBPYQ" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
@@ -62,6 +59,9 @@ See [my website](https://shawncharles.com) for more information!
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/CoinGecko-Thesys-MCP" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://www.youtube.com/live/oZP61tui0O0?si=c5hcOS-Rd4EO4OSZ" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
         </a>
       </p>
       <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — C1 app that connects to a CoinGecko MCP server to stream chat and visualize crypto data with tool integrations.</p>
@@ -98,7 +98,7 @@ See [my website](https://shawncharles.com) for more information!
         <a href="https://github.com/CharlesCreativeContent/BentoText2Video" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://github.com/CharlesCreativeContent/BentoText2Video/blob/main/output.mp4" target="_blank">
+        <a href="https://www.canva.com/design/DAGG2_I0Ad8/Im-89seUQuXj6_ylwbALvg/watch?utm_content=DAGG2_I0Ad8&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
         </a>
       </p>
@@ -119,6 +119,9 @@ See [my website](https://shawncharles.com) for more information!
         <a href="https://github.com/CharlesCreativeContent/Xano-Thesys-MCP" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
+        <a href="https://www.youtube.com/watch?v=FsnqOqxQDyU&list=PLTX9b_8iXKiT1TO1skP7zymXCOsYJ7690&index=6" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
+        </a>
       </p>
       <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — Starter template wired for C1 with environment hooks for Xano auth & MCP endpoints.</p>
     </td>
@@ -126,16 +129,16 @@ See [my website](https://shawncharles.com) for more information!
    <td width="50%" valign="top">
       <h3 align="center">AI Gallery</h3>
       <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/aigallery">
+      <a target="_blank" href="https://ai-gallery.netlify.app/">
         <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/aiGallery.png?raw=true" width="100%" alt="AI Gallery"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/CharlesCreativeContent/aigallery" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <a href="https://ai-gallery.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
-      <p><strong>SCSS, CSS, JavaScript, HTML</strong> — Static gallery showcasing AI images and videos from your creative experiments.</p>
+      <p><strong>SCSS, CSS, JavaScript, HTML</strong> — Gallery showcasing my AI images and videos.</p>
     </td>
   </tr>
   </table>
@@ -164,7 +167,7 @@ See [my website](https://shawncharles.com) for more information!
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://elastic-path-demo.netlify.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
         <a href="https://www.youtube.com/watch?v=1dHhMwfqb9w" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
@@ -185,7 +188,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
