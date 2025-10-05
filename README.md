@@ -187,7 +187,7 @@ See [my website](https://shawncharles.com) for more information!
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
+  <a href="https://shawncharles.com/travelara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
   </a>
       </p>
