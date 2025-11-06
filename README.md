@@ -3,20 +3,15 @@
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/></a>
   <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/></a>
   <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/></a>
   <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/></a>
   <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/></a>
 </p>
 
 Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
@@ -35,16 +30,13 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Runware Pokémon Generator</h3>
       <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/runware-pokemon-generator">
-        <img src="https://github.com/CharlesCreativeContent/runware-pokemon-generator/raw/main/public/runware.gif?raw=true" width="100%" alt="Runware Pokémon Generator"/>
-      </a>
+        <img src="https://github.com/CharlesCreativeContent/runware-pokemon-generator/raw/main/public/runware.gif?raw=true" width="100%" alt="Runware Pokémon Generator"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/runware-pokemon-generator" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://youtu.be/oQU5E0bBPYQ" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>JavaScript, Express.js, Runware SDK</strong> — Generates Pokémon-inspired images and an idle-animation video for a Pokédex entry using Runware (image gen) and Google Veo3 (video).</p>
     </td>
@@ -53,16 +45,13 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">CoinGecko-Thesys-MCP</h3>
       <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/CoinGecko-Thesys-MCP">
-        <img src="https://camo.githubusercontent.com/0dd2f60eb61954fb96f89c3c31fe17bdd70d5eede3adf617adca4db22e937638/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f436f696e4765636b6f2e676966" width="100%" alt="CoinGecko Thesys MCP"/>
-      </a>
+        <img src="https://camo.githubusercontent.com/0dd2f60eb61954fb96f89c3c31fe17bdd70d5eede3adf617adca4db22e937638/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f436f696e4765636b6f2e676966" width="100%" alt="CoinGecko Thesys MCP"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/CoinGecko-Thesys-MCP" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://www.youtube.com/live/oZP61tui0O0?si=c5hcOS-Rd4EO4OSZ" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — C1 app that connects to a CoinGecko MCP server to stream chat and visualize crypto data with tool integrations.</p>
     </td>
@@ -78,11 +67,9 @@ See [my website](https://shawncharles.com) for more information!
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/toolhouse-examples" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://youtu.be/LwKPnH0198E" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>Python, Toolhouse SDK, OpenAI API</strong> — Example agent that integrates Toolhouse tools with GPT to power use-cases like customer support and content workflows.</p>
     </td>
@@ -91,16 +78,13 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Text-2-Video with BentoML</h3>
       <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/BentoText2Video">
-        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/Happy_New_Year_Card.png?raw=true" width="100%" alt="Text-2-Video with BentoML"/>
-      </a>
+        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/Happy_New_Year_Card.png?raw=true" width="100%" alt="Text-2-Video with BentoML"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/BentoText2Video" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://www.canva.com/design/DAGG2_I0Ad8/Im-89seUQuXj6_ylwbALvg/watch?utm_content=DAGG2_I0Ad8&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>Python, BentoML, VLLM, XTTS, SDXL-Turbo, MoviePy</strong> — End-to-end text-to-video pipeline combining text, TTS audio, and image synthesis into rendered clips.</p>
     </td>
@@ -112,16 +96,13 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Xano-Thesys-MCP</h3>
       <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/Xano-Thesys-MCP">
-        <img src="https://camo.githubusercontent.com/3f2654c88b242767c7f7ef2d0a6aadb21dd0478fb270dfaa17dffdd40414da69/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f78616e6f636861742e706e67" width="100%" alt="Xano Thesys MCP"/>
-      </a>
+        <img src="https://camo.githubusercontent.com/3f2654c88b242767c7f7ef2d0a6aadb21dd0478fb270dfaa17dffdd40414da69/68747470733a2f2f736861776e696d616765732e6e65746c6966792e6170702f696d616765732f78616e6f636861742e706e67" width="100%" alt="Xano Thesys MCP"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/Xano-Thesys-MCP" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://www.youtube.com/watch?v=FsnqOqxQDyU&list=PLTX9b_8iXKiT1TO1skP7zymXCOsYJ7690&index=6" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>TypeScript, Next.js, C1 by Thesys, MCP</strong> — Starter template wired for C1 with environment hooks for Xano auth & MCP endpoints.</p>
     </td>
@@ -130,13 +111,11 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">AI Gallery</h3>
       <br />
       <a target="_blank" href="https://ai-gallery.netlify.app/">
-        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/aiGallery.png?raw=true" width="100%" alt="AI Gallery"/>
-      </a>
+        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/aiGallery.png?raw=true" width="100%" alt="AI Gallery"/></a>
       <br />
       <p align="center">
         <a href="https://ai-gallery.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
       <p><strong>SCSS, CSS, JavaScript, HTML</strong> — Gallery showcasing my AI images and videos.</p>
     </td>
@@ -159,19 +138,15 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Elastic Path API</h3>
       <br />
       <a target="_blank" href="https://elastic-path-demo.netlify.app">
-        <img src="https://github.com/CharlesCreativeContent/myimages/raw/main/images/elastic-path-demo.gif?raw=true" width="100%" alt="Elastic Path API Demo"/>
-      </a>
+        <img src="https://github.com/CharlesCreativeContent/myimages/raw/main/images/elastic-path-demo.gif?raw=true" width="100%" alt="Elastic Path API Demo"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/CharlesCreativeContent/elastic-path-demo" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
         <a href="https://elastic-path-demo.netlify.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
         <a href="https://www.youtube.com/watch?v=1dHhMwfqb9w" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
       <p><strong>JavaScript, HTML, CSS, Express</strong> — Ecommerce demo wired to the Elastic Path Composable Commerce API, with a live Netlify deploy and walkthrough video.</p>
     </td>
@@ -179,17 +154,14 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
-        </a>
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/></a>
         <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>  
   <a href="https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=red&style=plastic&logo=youtube&logo-color=white"/></a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
@@ -200,17 +172,14 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
-        </a>
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/></a>
         <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
@@ -220,13 +189,11 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Phaser Pokemon</h3>
       <br />
       <a target="_blank" href="https://shawncharles.com/pokemon">
-        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/Cryptomon.gif?raw=true" width="100%" alt="Phaser Pokemon"/>
-      </a>
+        <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/Cryptomon.gif?raw=true" width="100%" alt="Phaser Pokemon"/></a>
       <br />
       <p align="center">
         <a href="https://shawncharles.com/pokemon" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
       <p><strong>JavaScript & Phaser.js</strong> — Pokémon-style top-down mini game built with Phaser.</p>
     </td>
@@ -238,16 +205,13 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">ShawnCharles.com</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/></a>
       <br />
         <p align="center">
   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
   <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
@@ -255,17 +219,14 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/></a>
         <br />
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
   <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
@@ -311,19 +272,14 @@ See [my website](https://shawncharles.com) for more information!
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/></a>
   <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/></a>
   <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/></a>
   <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/></a>
   <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/></a>
 </p>
 
